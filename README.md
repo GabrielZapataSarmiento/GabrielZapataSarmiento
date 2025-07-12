@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Lumea]([https://github.com/mctantwerp/ninjas2425-GrowRework](https://github.com/mctantwerp/ninjas2425-LumeaRework))
 
-- 🌱 I’m currently learning **JavaScript, Devop**
+- 🌱 I’m currently learning **Python, Devop**
 
 - 👯 I’m looking to collaborate on [Lumea](https://github.com/GabrielZapataSarmiento/Lumea)
 
